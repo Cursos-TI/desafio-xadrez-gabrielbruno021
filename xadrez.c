@@ -5,7 +5,7 @@
  * Torre, Bispo, Rainha e Cavalo
  * Níveis: Novato, Aventureiro e Mestre
  *
- * Autor: Seu Nome
+ * Autor: Gabriel
  * Data: 2025
  */
 
